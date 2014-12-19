@@ -1,0 +1,37 @@
+baseurl: "" # The subpath of your site. Use "" if you're hosting a blog at the root level.
+url: "https://mmoto1284.github.io" # the base hostname & protocol for your site.
+title: "thinking dot"
+
+
+paginate: 3 #articles per page
+paginate_path: /blog/page:num #makes pagination working
+
+
+#contacts
+
+
+gems:
+  - jekyll-sitemap
+
+# This is used by feed.xml. Uncomment if you want to use it.
+# description: "..."
+
+exclude:
+  - "README.md"
+  - "CHANGELOG.md"
+  - "Gemfile"
+  - "Gemfile.lock"
+permalink: :title
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
