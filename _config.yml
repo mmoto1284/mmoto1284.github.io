@@ -3,7 +3,7 @@ url: "https://mmoto1284.github.io" # the base hostname & protocol for your site.
 title: "thinking dot"
 
 
-paginate: 3 #articles per page
+paginate: 5 #articles per page
 paginate_path: /blog/page:num #makes pagination working
 
 

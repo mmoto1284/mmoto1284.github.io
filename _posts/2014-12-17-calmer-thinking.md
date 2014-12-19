@@ -1,6 +1,6 @@
 ---
 title: "Calmer thinking"
-tags: [mind] [incident]
+tags: [incident, mind]
 ---
 
 I realized I left my card at the fc bar the other night.  In my panic I thought that the extra charges on my card were fraudulent by the bar staff.  Turns out it was a mistake and the two other charges were unrelated to the bar.  

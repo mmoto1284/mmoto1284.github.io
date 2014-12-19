@@ -1,6 +1,6 @@
 ---
 title: "I am hardware"
-tags: [mind] [insight] [game]
+tags: [mind, insight, game]
 ---
 
 
